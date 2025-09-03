@@ -1,6 +1,10 @@
 <a id="soup"></a>
 # Soup
 
+```
+This fork is no longer being actively maintained. Use: git@github.com:alfwatt/Soup.git
+```
+
 <img src="Artwork/Soup-Logo.png" width="256" height="256" style="margin:2em; float: right;">
 
 An object oriented persistence framework from [iStumbler Labs](https://istumbler.net/labs) 
